@@ -1,0 +1,10 @@
+/* DEVELOPER */
+	Name: John Paul Onte
+	Contact: jnpl.onte@gmail.com
+	Portfolio: http://www.jnpl.me
+	From:Qezon City, Philippines
+
+/* SITE */
+	Last update: 2013/08/28
+	Language: English
+	Doctype: HTML5
